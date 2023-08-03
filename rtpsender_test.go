@@ -15,8 +15,8 @@ import (
 	"time"
 
 	"github.com/pion/transport/v2/test"
-	"github.com/pion/webrtc/v3/pkg/media"
 	"github.com/stretchr/testify/assert"
+	"github.com/tihomirptotev/webrtc/v3/pkg/media"
 )
 
 func Test_RTPSender_ReplaceTrack(t *testing.T) {

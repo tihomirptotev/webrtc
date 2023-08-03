@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/pion/webrtc/v3"
-	"github.com/pion/webrtc/v3/examples/internal/signal"
+	"github.com/tihomirptotev/webrtc/v3"
+	"github.com/tihomirptotev/webrtc/v3/examples/internal/signal"
 )
 
 func main() {

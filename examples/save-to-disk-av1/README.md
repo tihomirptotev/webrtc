@@ -1,7 +1,7 @@
 # save-to-disk-av1
 save-to-disk-av1 is a simple application that shows how to save a video to disk using AV1.
 
-If you wish to save VP8 and Opus instead of AV1 see [save-to-disk](https://github.com/pion/webrtc/tree/master/examples/save-to-disk)
+If you wish to save VP8 and Opus instead of AV1 see [save-to-disk](https://github.com/tihomirptotev/webrtc/tree/master/examples/save-to-disk)
 
 If you wish to save VP8/Opus inside the same file see [save-to-webm](https://github.com/pion/example-webrtc-applications/tree/master/save-to-webm)
 
@@ -11,7 +11,7 @@ You can then send this video back to your browser using [play-from-disk](https:/
 ### Download save-to-disk-av1
 ```
 export GO111MODULE=on
-go get github.com/pion/webrtc/v3/examples/save-to-disk-av1
+go get github.com/tihomirptotev/webrtc/v3/examples/save-to-disk-av1
 ```
 
 ### Open save-to-disk-av1 example page

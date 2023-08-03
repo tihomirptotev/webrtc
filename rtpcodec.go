@@ -6,7 +6,7 @@ package webrtc
 import (
 	"strings"
 
-	"github.com/pion/webrtc/v3/internal/fmtp"
+	"github.com/tihomirptotev/webrtc/v3/internal/fmtp"
 )
 
 // RTPCodecType determines the type of a codec

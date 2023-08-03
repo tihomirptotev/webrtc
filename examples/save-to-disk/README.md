@@ -3,7 +3,7 @@ save-to-disk is a simple application that shows how to record your webcam/microp
 
 If you wish to save VP8/Opus inside the same file see [save-to-webm](https://github.com/pion/example-webrtc-applications/tree/master/save-to-webm)
 
-If you wish to save AV1 instead see [save-to-disk-av1](https://github.com/pion/webrtc/tree/master/examples/save-to-disk-av1)
+If you wish to save AV1 instead see [save-to-disk-av1](https://github.com/tihomirptotev/webrtc/tree/master/examples/save-to-disk-av1)
 
 You can then send this video back to your browser using [play-from-disk](https://github.com/pion/example-webrtc-applications/tree/master/play-from-disk)
 
@@ -11,7 +11,7 @@ You can then send this video back to your browser using [play-from-disk](https:/
 ### Download save-to-disk
 ```
 export GO111MODULE=on
-go get github.com/pion/webrtc/v3/examples/save-to-disk
+go get github.com/tihomirptotev/webrtc/v3/examples/save-to-disk
 ```
 
 ### Open save-to-disk example page

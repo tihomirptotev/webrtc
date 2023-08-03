@@ -1,10 +1,10 @@
-module github.com/pion/webrtc/v3
+module github.com/tihomirptotev/webrtc/v3
 
 go 1.13
 
 require (
 	github.com/onsi/ginkgo v1.16.5 // indirect
-	github.com/onsi/gomega v1.17.0 // indirect
+	github.com/onsi/gomega v1.27.10 // indirect
 	github.com/pion/datachannel v1.5.5
 	github.com/pion/dtls/v2 v2.2.7
 	github.com/pion/ice/v2 v2.3.9
