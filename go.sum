@@ -140,6 +140,8 @@ github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcU
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/tihomirptotev/dtls/v2 v2.0.0-20230803092614-1d33ad81b23f h1:pIoxHWzAcAflyQekcSc3Rx2O8miSrjEmIiMQwitB6Y4=
 github.com/tihomirptotev/dtls/v2 v2.0.0-20230803092614-1d33ad81b23f/go.mod h1:RAv7TLzj0fYEyVnSizohq2X/To8u0RMWJ4CQT0JVFyE=
+github.com/tihomirptotev/dtls/v2 v2.0.0-20230803132453-0e47d53e24f0 h1:XYgqqmoiMvFA7inoNy8AsGJb8BgJJq5lf0mvm3TBqJk=
+github.com/tihomirptotev/dtls/v2 v2.0.0-20230803132453-0e47d53e24f0/go.mod h1:RAv7TLzj0fYEyVnSizohq2X/To8u0RMWJ4CQT0JVFyE=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.4.1/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=

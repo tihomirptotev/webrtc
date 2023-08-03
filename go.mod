@@ -20,6 +20,6 @@ require (
 	github.com/pion/turn/v2 v2.1.3 // indirect
 	github.com/sclevine/agouti v3.0.0+incompatible
 	github.com/stretchr/testify v1.8.4
-	github.com/tihomirptotev/dtls/v2 v2.0.0-20230803092614-1d33ad81b23f
+	github.com/tihomirptotev/dtls/v2 v2.0.0-20230803132453-0e47d53e24f0
 	golang.org/x/net v0.13.0
 )
