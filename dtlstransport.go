@@ -343,6 +343,9 @@ func (t *DTLSTransport) Start(remoteParameters DTLSParameters) error {
 	dtlsConfig.ClientCAs = t.api.settingEngine.dtls.clientCAs
 	dtlsConfig.RootCAs = t.api.settingEngine.dtls.rootCAs
 	dtlsConfig.KeyLogWriter = t.api.settingEngine.dtls.keyLogWriter
+	if t.api.settingEngine.dtls.customCipherSuites != nil {
+		dtlsConfig.CustomCipherSuites = t.api.settingEngine.dtls.customCipherSuites
+	}
 
 	// Connect as DTLS Client/Server, function is blocking and we
 	// must not hold the DTLSTransport lock
