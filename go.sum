@@ -146,6 +146,8 @@ github.com/tihomirptotev/dtls/v2 v2.0.0-20230803133357-9507a16932d7 h1:4n/NEhLUe
 github.com/tihomirptotev/dtls/v2 v2.0.0-20230803133357-9507a16932d7/go.mod h1:RAv7TLzj0fYEyVnSizohq2X/To8u0RMWJ4CQT0JVFyE=
 github.com/tihomirptotev/dtls/v2 v2.0.0-20230803133715-7ca09e375aa2 h1:HqycsXJsZ9QHS4nFpa2vL2Jk+g24htr8QrWjnySzGAw=
 github.com/tihomirptotev/dtls/v2 v2.0.0-20230803133715-7ca09e375aa2/go.mod h1:RAv7TLzj0fYEyVnSizohq2X/To8u0RMWJ4CQT0JVFyE=
+github.com/tihomirptotev/dtls/v2 v2.0.0-20230803143120-3058b203da3a h1:Vj26tE2e29jWZIceRqJAm94lUI7WqB5S5bsof9fe4sY=
+github.com/tihomirptotev/dtls/v2 v2.0.0-20230803143120-3058b203da3a/go.mod h1:RAv7TLzj0fYEyVnSizohq2X/To8u0RMWJ4CQT0JVFyE=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.4.1/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
